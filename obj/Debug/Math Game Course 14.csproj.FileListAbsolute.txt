@@ -1,0 +1,12 @@
+C:\Users\abdul\source\repos\Math Game Course 14\bin\Debug\Math Game Course 14.exe.config
+C:\Users\abdul\source\repos\Math Game Course 14\bin\Debug\Math Game Course 14.exe
+C:\Users\abdul\source\repos\Math Game Course 14\bin\Debug\Math Game Course 14.pdb
+C:\Users\abdul\source\repos\Math Game Course 14\obj\Debug\Math Game Course 14.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\Math Game Course 14\obj\Debug\Math Game Course 14.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\source\repos\Math Game Course 14\obj\Debug\Math_Game_Course_14.frmStarterGameScreen.resources
+C:\Users\abdul\source\repos\Math Game Course 14\obj\Debug\Math_Game_Course_14.Properties.Resources.resources
+C:\Users\abdul\source\repos\Math Game Course 14\obj\Debug\Math Game Course 14.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\Math Game Course 14\obj\Debug\Math Game Course 14.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\Math Game Course 14\obj\Debug\Math Game Course 14.exe
+C:\Users\abdul\source\repos\Math Game Course 14\obj\Debug\Math Game Course 14.pdb
+C:\Users\abdul\source\repos\Math Game Course 14\obj\Debug\Math_Game_Course_14.frmInfoGameScreen.resources
