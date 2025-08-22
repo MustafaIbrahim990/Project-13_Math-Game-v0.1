@@ -1,5 +1,3 @@
-"# Project-13 _ Math Game-v0.1" 
-
 # 🧠 Project-13: Math Game v0.1
 
 ## 🎮 Overview
